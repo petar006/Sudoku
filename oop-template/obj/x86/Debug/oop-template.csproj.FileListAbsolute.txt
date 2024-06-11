@@ -1,0 +1,7 @@
+D:\dimitrije-tenjovic\Sudoku\oop-template\bin\Debug\oop-template.exe
+D:\dimitrije-tenjovic\Sudoku\oop-template\bin\Debug\oop-template.pdb
+D:\dimitrije-tenjovic\Sudoku\oop-template\obj\x86\Debug\oop_template.Form1.resources
+D:\dimitrije-tenjovic\Sudoku\oop-template\obj\x86\Debug\oop_template.Properties.Resources.resources
+D:\dimitrije-tenjovic\Sudoku\oop-template\obj\x86\Debug\oop-template.csproj.GenerateResource.Cache
+D:\dimitrije-tenjovic\Sudoku\oop-template\obj\x86\Debug\oop-template.exe
+D:\dimitrije-tenjovic\Sudoku\oop-template\obj\x86\Debug\oop-template.pdb
