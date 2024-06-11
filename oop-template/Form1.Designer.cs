@@ -32,6 +32,7 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.button4 = new System.Windows.Forms.Button();
             this.Column1 = new System.Windows.Forms.DataGridViewButtonColumn();
             this.Column3 = new System.Windows.Forms.DataGridViewButtonColumn();
             this.draganee = new System.Windows.Forms.DataGridViewButtonColumn();
@@ -41,8 +42,6 @@
             this.Column6 = new System.Windows.Forms.DataGridViewButtonColumn();
             this.Column7 = new System.Windows.Forms.DataGridViewButtonColumn();
             this.Column8 = new System.Windows.Forms.DataGridViewButtonColumn();
-            this.Column9 = new System.Windows.Forms.DataGridViewButtonColumn();
-            this.button4 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -86,13 +85,21 @@
             this.Column5,
             this.Column6,
             this.Column7,
-            this.Column8,
-            this.Column9});
-            this.dataGridView1.Location = new System.Drawing.Point(148, 36);
+            this.Column8});
+            this.dataGridView1.Location = new System.Drawing.Point(160, 36);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(298, 374);
             this.dataGridView1.TabIndex = 3;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
+            // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(70, 126);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(72, 24);
+            this.button4.TabIndex = 4;
+            this.button4.Text = "Reset";
+            this.button4.UseVisualStyleBackColor = true;
             // 
             // Column1
             // 
@@ -158,23 +165,6 @@
             this.Column8.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
             this.Column8.Width = 25;
             // 
-            // Column9
-            // 
-            this.Column9.HeaderText = "‎ ";
-            this.Column9.Name = "Column9";
-            this.Column9.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.Column9.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            this.Column9.Width = 25;
-            // 
-            // button4
-            // 
-            this.button4.Location = new System.Drawing.Point(70, 126);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(72, 24);
-            this.button4.TabIndex = 4;
-            this.button4.Text = "Reset";
-            this.button4.UseVisualStyleBackColor = true;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -198,6 +188,7 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.Button button4;
         private System.Windows.Forms.DataGridViewButtonColumn Column1;
         private System.Windows.Forms.DataGridViewButtonColumn Column3;
         private System.Windows.Forms.DataGridViewButtonColumn draganee;
@@ -207,8 +198,6 @@
         private System.Windows.Forms.DataGridViewButtonColumn Column6;
         private System.Windows.Forms.DataGridViewButtonColumn Column7;
         private System.Windows.Forms.DataGridViewButtonColumn Column8;
-        private System.Windows.Forms.DataGridViewButtonColumn Column9;
-        private System.Windows.Forms.Button button4;
 
     }
 }
