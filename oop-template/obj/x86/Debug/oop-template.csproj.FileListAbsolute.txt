@@ -1,0 +1,6 @@
+D:\dimitrije-tenjovic\Sudoku\oop-template\obj\x86\Debug\oop-template.csproj.AssemblyReference.cache
+D:\dimitrije-tenjovic\Sudoku\oop-template\obj\x86\Debug\oop-template.csproj.SuggestedBindingRedirects.cache
+D:\dimitrije-tenjovic\Sudoku\oop-template\obj\x86\Debug\SudokuApp.Form1.resources
+D:\dimitrije-tenjovic\Sudoku\oop-template\obj\x86\Debug\oop_template.Properties.Resources.resources
+D:\dimitrije-tenjovic\Sudoku\oop-template\obj\x86\Debug\oop-template.csproj.GenerateResource.cache
+D:\dimitrije-tenjovic\Sudoku\oop-template\obj\x86\Debug\oop-template.csproj.CoreCompileInputs.cache
